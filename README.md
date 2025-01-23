@@ -5,7 +5,7 @@ Because of this, this project does NOT use any exploits to bypass any Antivirus 
 This project uses a fork of the NCat called [NCat Portable](https://github.com/cyberisltd/NcatPortable) - Check the Original Nmap license: https://svn.nmap.org/nmap/COPYING
 
 # Instructions
-- **Step 1:** Disable any Antivirus Softwares on the machine you want to try this.
+- **Step 1:** Disable any Antivirus Softwares on the machine you want to try this in.
 - **Step 2:** First, we should edit the Powershell script. Do a left-click/edit on the **shell.ps1**
 - **Step 3:** Change the IP address to **your** Local IPv4 Address *(you can change your port now if you want/need to)*. Close the editing.
 - **Step 4:** Open CMD at the folder that the **ncat.exe** is in.
