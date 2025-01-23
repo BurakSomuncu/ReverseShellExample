@@ -6,9 +6,9 @@ This project uses a fork of the NCat called [NCat Portable](https://github.com/c
 
 # Instructions
 - **Step 1:** Disable any Antivirus Softwares on the machine you want to try this in.
-- **Step 2:** First, we should edit the Powershell script. Do a left-click/edit on the **shell.ps1**
+- **Step 2:** First, we should edit the Powershell script. Do a right-click/edit on the **shell.ps1**
 - **Step 3:** Change the IP address to **your** Local IPv4 Address *(you can change your port now if you want/need to)*. Close the editing.
-- **Step 4:** Open CMD at the folder that the **ncat.exe** is in.
+- **Step 4:** Open CMD at the folder that the **ncat.exe** is in by shift+right-click/Open this folder in CMD.
 - **Step 5:** Type **"ncat.exe -lvnp 4440"** *(4440 is the default port, change this if you changed the port while editing Powershell script)*
 - **Step 6:** After this, start the batch file called **"shell.bat"**.
 - **Step 7:** You now should see your IP *(or the IP of the other machine)* at the CMD window that you launched Ncat.
