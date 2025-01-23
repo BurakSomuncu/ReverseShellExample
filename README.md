@@ -13,3 +13,6 @@ This project uses a fork of the NCat called [NCat Portable](https://github.com/c
 - **Step 6:** After this, start the batch file called **"shell.bat"**.
 - **Step 7:** You now should see your IP *(or the IP of the other machine)* at the CMD window that you launched Ncat.
 - **Step 8:** And voila! You now got shell access in the computer! Try it by typing **"ls"** or **"cd"**
+
+# Note
+This script is HIGHLY experimental so it may not work sometimes.
